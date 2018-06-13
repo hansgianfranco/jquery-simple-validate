@@ -1,0 +1,24 @@
+{
+  "name": "jquery-simple-validate",
+  "version": "1.0.0",
+  "description": "Jquery Simple Validate",
+  "main": "jquery.simple.validate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jquery",
+    "simple",
+    "validate"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hansgianfranco/jquery-simple-validate.git"
+  },
+  "author": "hansgianfranco <hansgianfranco@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hansgianfranco/jquery-simple-validate/issues"
+  },
+  "homepage": "https://github.com/hansgianfranco/jquery-simple-validate#readme"
+}
